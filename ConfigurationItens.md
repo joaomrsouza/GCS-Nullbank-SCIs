@@ -10,7 +10,7 @@
 
 - **ID**: IC-002
 - **Descrição**: Script de criação do banco de dados.
-- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs)
+- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/Banco%20de%20Dados.sql)
 - **Branch padrão**: `main`
 - **Tags**: `v0.1.0`
 
@@ -18,7 +18,7 @@
 
 - **ID**: IC-003
 - **Descrição**: Script SQL com todas as consultas realizadas pela aplicação.
-- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs)
+- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/Consultas.sql)
 - **Branch padrão**: `main`
 - **Tags**: `v0.1.0`
 
@@ -26,7 +26,7 @@
 
 - **ID**: IC-004
 - **Descrição**: Script de povoamento do banco de dados.
-- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs)
+- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/Seed.sql)
 - **Branch padrão**: `main`
 - **Tags**: `v0.1.0`
 
@@ -34,7 +34,7 @@
 
 - **ID**: IC-005
 - **Descrição**: Manual de especificações do sistema.
-- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs)
+- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/Manual%20de%20Especifica%C3%A7%C3%B5es%20do%20Sistema%20NullBank.docx)
 - **Branch padrão**: `main`
 - **Tags**: `v0.1.0`
 
@@ -42,7 +42,7 @@
 
 - **ID**: IC-006
 - **Descrição**: Manual do usuário.
-- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs)
+- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/Manual%20de%20Utiliza%C3%A7%C3%A3o%20do%20Sistema%20NullBank.docx)
 - **Branch padrão**: `main`
 - **Tags**: `v0.1.0`
 
@@ -50,14 +50,14 @@
 
 - **ID**: IC-007
 - **Descrição**: Arquivo do MySQL Workbench com a modelagem do banco de dados.
-- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs)
+- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/Modelo.mwb)
 - **Branch padrão**: `main`
 - **Tags**: `v0.1.0`
 
 # Item de Configuração: README.md
 
 - **ID**: IC-008
-- **Descrição**: Arquivo de apresentação do projeto.
-- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs)
+- **Descrição**: Arquivo de apresentação deste repositório.
+- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/README.md)
 - **Branch padrão**: `main`
-- **Tags**: `v0.1.0`
+- **Tags**: `v0.2.0`
