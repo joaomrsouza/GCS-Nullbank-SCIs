@@ -30,13 +30,13 @@
 - **Branch padrão**: `main`
 - **Tags**: `v0.1.0`
 
-# Item de Configuração: Manual de Especificações do Sistema NullBank.pdf
+# Item de Configuração: Manual de Especificações do Sistema Nullbank.pdf
 
 - **ID**: IC-005
 - **Descrição**: Manual de especificações do sistema.
-- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/Manual%20de%20Especifica%C3%A7%C3%B5es%20do%20Sistema%20NullBank.docx)
+- **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/Manual%20de%20Especifica%C3%A7%C3%B5es%20do%20Sistema%20Nullbank.docx)
 - **Branch padrão**: `main`
-- **Tags**: `v0.1.0`
+- **Tags**: `v0.2.0`
 
 # Item de Configuração: Manual de Utilização do Sistema NullBank.pdf
 
@@ -44,7 +44,7 @@
 - **Descrição**: Manual do usuário.
 - **Repositório**: [GitHub](https://github.com/joaomrsouza/GCS-Nullbank-SCIs/blob/main/Manual%20de%20Utiliza%C3%A7%C3%A3o%20do%20Sistema%20NullBank.docx)
 - **Branch padrão**: `main`
-- **Tags**: `v0.1.0`
+- **Tags**: `v0.2.0`
 
 # Item de Configuração: Modelo.mwb
 
